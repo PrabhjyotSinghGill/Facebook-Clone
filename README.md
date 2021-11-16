@@ -1,2 +1,1 @@
-App can be accessed at
-https://prabhjyotsinghgill.github.io/Facebook-clone/
+The Project can be accessed at Link: https://prabhjyotsinghgill.github.io/Facebook-clone/
