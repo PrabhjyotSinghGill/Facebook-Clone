@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Facebook-clone/static/css/main.28b126b6.chunk.css",
-    "main.js": "/Facebook-clone/static/js/main.317cd8b3.chunk.js",
-    "main.js.map": "/Facebook-clone/static/js/main.317cd8b3.chunk.js.map",
-    "runtime-main.js": "/Facebook-clone/static/js/runtime-main.836a199b.js",
-    "runtime-main.js.map": "/Facebook-clone/static/js/runtime-main.836a199b.js.map",
-    "static/js/2.4a62b740.chunk.js": "/Facebook-clone/static/js/2.4a62b740.chunk.js",
-    "static/js/2.4a62b740.chunk.js.map": "/Facebook-clone/static/js/2.4a62b740.chunk.js.map",
-    "index.html": "/Facebook-clone/index.html",
-    "precache-manifest.f00353a68299c03371366890256d0741.js": "/Facebook-clone/precache-manifest.f00353a68299c03371366890256d0741.js",
-    "service-worker.js": "/Facebook-clone/service-worker.js",
-    "static/css/main.28b126b6.chunk.css.map": "/Facebook-clone/static/css/main.28b126b6.chunk.css.map",
-    "static/js/2.4a62b740.chunk.js.LICENSE.txt": "/Facebook-clone/static/js/2.4a62b740.chunk.js.LICENSE.txt"
+    "main.css": "/Facebook-Clone/static/css/main.b1437ed5.chunk.css",
+    "main.js": "/Facebook-Clone/static/js/main.e7b0979a.chunk.js",
+    "main.js.map": "/Facebook-Clone/static/js/main.e7b0979a.chunk.js.map",
+    "runtime-main.js": "/Facebook-Clone/static/js/runtime-main.e5825d77.js",
+    "runtime-main.js.map": "/Facebook-Clone/static/js/runtime-main.e5825d77.js.map",
+    "static/js/2.e40c1124.chunk.js": "/Facebook-Clone/static/js/2.e40c1124.chunk.js",
+    "static/js/2.e40c1124.chunk.js.map": "/Facebook-Clone/static/js/2.e40c1124.chunk.js.map",
+    "index.html": "/Facebook-Clone/index.html",
+    "precache-manifest.14f6e44c3365c7f0dd06fa8807aa1f0a.js": "/Facebook-Clone/precache-manifest.14f6e44c3365c7f0dd06fa8807aa1f0a.js",
+    "service-worker.js": "/Facebook-Clone/service-worker.js",
+    "static/css/main.b1437ed5.chunk.css.map": "/Facebook-Clone/static/css/main.b1437ed5.chunk.css.map",
+    "static/js/2.e40c1124.chunk.js.LICENSE.txt": "/Facebook-Clone/static/js/2.e40c1124.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.836a199b.js",
-    "static/js/2.4a62b740.chunk.js",
-    "static/css/main.28b126b6.chunk.css",
-    "static/js/main.317cd8b3.chunk.js"
+    "static/js/runtime-main.e5825d77.js",
+    "static/js/2.e40c1124.chunk.js",
+    "static/css/main.b1437ed5.chunk.css",
+    "static/js/main.e7b0979a.chunk.js"
   ]
 }
