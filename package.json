@@ -2,7 +2,7 @@
   "name": "facebook-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://PrabhjyotSinghGill.github.io/Facebook-clone",
+  "homepage": "http://PrabhjyotSinghGill.github.io/Facebook-Clone",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
